@@ -1,0 +1,2 @@
+com/demo/oauthclient/OauthClientApplicationTests.java
+ com.demo.oauthclient.OauthClientApplicationTests
